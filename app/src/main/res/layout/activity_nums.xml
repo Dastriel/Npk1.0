@@ -243,7 +243,7 @@
             android:width="50sp"
             android:height="50sp"
             android:text="10000"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
     </GridLayout>
