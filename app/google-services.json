@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016136265316",
+    "project_id": "npkapp-82153",
+    "storage_bucket": "npkapp-82153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016136265316:android:eb64aadceecb9c51ffb971",
+        "android_client_info": {
+          "package_name": "com.example.npkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016136265316-87i8dap6oma4kltnbbtbc0fcvb6n4rvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpqd-ul6eYO9vpmKufjlBKFqGyo3tx0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016136265316-87i8dap6oma4kltnbbtbc0fcvb6n4rvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
